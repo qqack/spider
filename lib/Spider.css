@@ -44,14 +44,16 @@ body {
 }
 .poker {
     position:absolute;
-    width:105px;
-    height:148px;
+/*    width:105px;
+    height:148px;*/
+    width:79px;
+    height:111px;
     border-radius:4px;
-    background:url(../images/poker.png) no-repeat;
+    background:url(../images/poker1.png) no-repeat;
     cursor:default;
 }
 .poker:hover {
-    box-shadow:0px 0px 5px #0033cc;
+    box-shadow:0px 0px 4px #0033cc;
 }
 .fixed:hover {
     box-shadow:none;
